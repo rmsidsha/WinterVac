@@ -1,7 +1,7 @@
 import java.awt.*;
 import javax.swing.*;
 
-public class FrameFor extends JFrame {
+public class FrameFor extends JFrameTest {
 	public FrameFor() {
 		setTitle("FrameFor");
 		setSize(600, 400);

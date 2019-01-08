@@ -1,7 +1,7 @@
 import java.awt.*;
 import javax.swing.*;
 
-public class FrameTest extends JFrame {
+public class FrameTest extends JFrameTest {
 	public FrameTest() {
 		setSize(300,150);
 		setLocation(200,300);
